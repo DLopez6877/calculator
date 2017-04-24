@@ -1,3 +1,11 @@
+// var tempConvert = function(celsius1) {
+// 	return celsius1 * 1.8 + 32;
+// }
+//
+// var celsius1 = parseFloat(prompt("Enter Celsius Temperature"));
+// var results = tempConvert(celsius1);
+// // alert(results);
+
 var add = function(number1, number2) {
   return number1 + number2;
 };
